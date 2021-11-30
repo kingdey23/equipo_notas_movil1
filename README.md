@@ -1,2 +1,3 @@
-# equipo_notas_movil1
- equipo notas de programcion movil 1
+# AppNotas
+ProyectoFinalNotas
+# notas_-movil-
